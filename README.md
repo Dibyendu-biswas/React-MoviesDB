@@ -1,5 +1,5 @@
 <h1>Project -React-Project</h1>
-<img "../assets/img.png">
+<img src="../assets/img.png">
 
 <h2>Project Details :</h2>
 <p>This is a library of multiple basic projects based on HTML, CSS & Vanilla Javascript and React. No framework is used while developing this projects.</p>
