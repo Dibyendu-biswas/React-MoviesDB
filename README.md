@@ -2,7 +2,7 @@
 <img src='\src\assets\img.png'/>
 
 <h2>Project Details :</h2>
-<p>This is a library of multiple basic projects based on HTML, CSS & Vanilla Javascript and React. No framework is used while developing this projects.</p>
+<p>This is a library of multiple basic projects based on HTML, CSS & Vanilla Javascript .i use React as a framework </p>
 
 <li>Project Live Link : All the live link available in the Respecttive Repo</li>
 <h2>Completed Projects -</h2>
